@@ -1,0 +1,7 @@
+C:\Users\cduan\Desktop\C#Programs\BuiltinTypes\BuiltinTypes\bin\Debug\BuiltinTypes.exe.config
+C:\Users\cduan\Desktop\C#Programs\BuiltinTypes\BuiltinTypes\bin\Debug\BuiltinTypes.exe
+C:\Users\cduan\Desktop\C#Programs\BuiltinTypes\BuiltinTypes\bin\Debug\BuiltinTypes.pdb
+C:\Users\cduan\Desktop\C#Programs\BuiltinTypes\BuiltinTypes\obj\Debug\BuiltinTypes.csprojAssemblyReference.cache
+C:\Users\cduan\Desktop\C#Programs\BuiltinTypes\BuiltinTypes\obj\Debug\BuiltinTypes.csproj.CoreCompileInputs.cache
+C:\Users\cduan\Desktop\C#Programs\BuiltinTypes\BuiltinTypes\obj\Debug\BuiltinTypes.exe
+C:\Users\cduan\Desktop\C#Programs\BuiltinTypes\BuiltinTypes\obj\Debug\BuiltinTypes.pdb
